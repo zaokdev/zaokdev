@@ -36,8 +36,7 @@
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/show/342062/next-js.svg"
-      style="filter: invert(100%);"
+      src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/a57a4dc79978ad9e141972054ce9f71e/nextjs3.webp"
       alt="NextJS"
       width="40"
       height="40"
@@ -62,7 +61,7 @@
 </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display: grid; align-items: center; justify-content: center">
+<div style="display: grid; align-items: center; justify-content: center;">
   <img
     style="height: 100%; width: 49%; max-width: 100%"
     src="https://github-readme-stats.vercel.app/api?username=zaokdev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"
