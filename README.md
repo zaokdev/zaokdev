@@ -37,6 +37,7 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/342062/next-js.svg"
+      style="filter: invert(100%);"
       alt="NextJS"
       width="40"
       height="40"
