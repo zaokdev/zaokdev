@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido a mi Github<br />Soy Zaokdev</h1>
-<img src="https://tenor.com/es-US/view/chao-garden-sonic-chao-cute-smile-gif-16528341">
+<img src="https://media1.tenor.com/m/yj3qPQTpTJwAAAAd/chao-garden-sonic.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
